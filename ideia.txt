@@ -1,0 +1,22 @@
+frontend: NextJS
+    - middleware de autenticação 
+    - header fixo 
+    - usuarios cadastrados com icone de refresh e se tiver vazio ele emite msg que ta vazio 
+    - ter mensagem de loading
+    - toaster
+    - criar usuario 
+    - alterar usuario
+    - deletar usuario 
+
+backend: NodeJS
+    - rotas
+    - autenticação do middleware
+    - listar usuarios
+    - criar usuario 
+    - alterar usuario 
+    - deletar usuario 
+
+* ferramentas adicionais:
+    - git (versionamento)
+    - dbeaver (database)
+    - insomnia (requests)

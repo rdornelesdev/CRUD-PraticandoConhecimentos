@@ -1,0 +1,16 @@
+:root {
+  --background: #1b1920;
+  --font-color: #f5f9f8;
+  --button: #1ab676;
+  --button-hover: #00926d;
+
+  --border-radius: 6px;
+  --font-size: 18px;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
