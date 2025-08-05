@@ -1,0 +1,22 @@
+# Arquivos do Node.js que devem ser ignorados em qualquer lugar
+node_modules/
+npm-debug.log*
+
+# --- Regras para a pasta 'frontend' ---
+# Ignora a pasta de build do Next.js
+frontend/.next/
+frontend/out/
+
+# Ignora variáveis de ambiente específicas do frontend
+frontend/.env.local
+
+# --- Regras para a pasta 'backend' ---
+# Ignora a pasta de build do TypeScript
+backend/dist/
+backend/build/
+
+# Ignora variáveis de ambiente específicas do backend
+backend/.env
+
+# --- Regras globais ---
+.DS_Store
