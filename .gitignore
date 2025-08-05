@@ -20,3 +20,6 @@ backend/.env
 
 # --- Regras globais ---
 .DS_Store
+
+# --- Ignora meu ideia.txt ---
+ideia.txt
